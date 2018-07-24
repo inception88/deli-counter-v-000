@@ -11,3 +11,7 @@ def line(lineup)
   puts output
   end
 end
+
+def take_a_number(array, name)
+  array << name
+end
