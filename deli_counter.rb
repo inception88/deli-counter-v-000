@@ -9,4 +9,5 @@ def line(lineup)
     x += 1
   end
   puts output
+  end
 end
