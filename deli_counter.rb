@@ -18,5 +18,4 @@ if array.length < 1
 else
   puts "Welcome, #{name}. You are number #{array.length} in line."
 end
-  array << name
 end
